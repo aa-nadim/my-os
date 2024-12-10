@@ -1,0 +1,4 @@
+w3e12@w3e12:~/Desktop/my-os$ make run
+nasm -f bin boot/bootloader.asm -o build/bootloader.bin
+make: nasm: No such file or directory
+make: *** [Makefile:20: build/bootloader.bin] Error 127

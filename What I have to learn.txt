@@ -1,0 +1,5 @@
+Bootloader Development: Write an assembly program to initialize the system and load your OS kernel.
+Kernel Development: Write a minimal kernel in C or C++.
+Memory Management Basics: Understand the memory layout and how to handle memory.
+Filesystem Basics: Load and read files from a disk (optional for simple OS).
+User Interaction: Display basic text and handle simple inputs.
